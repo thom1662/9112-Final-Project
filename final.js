@@ -13,22 +13,3 @@ function getDaysUntilChristmas (today) {
 }
 getDaysUntilChristmas(new Date());
 
-
-
-
-
-// let numbers = [5, 10, 2, 25, 44, 109, 7];
-
-// function getAverage(nums){
-//   let total = 0;
-//   for(let i = 0 ; i<nums.length ; i++){
-//     total += nums[i];
-//   }
-//   console.log(total);
-//   return total;
-
-
-// }
-
-// getAverage(numbers);
-

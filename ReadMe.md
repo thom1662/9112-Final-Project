@@ -2,7 +2,8 @@
 
 ## Step 1:
 
-``` function getDaysUntilChristmas (today) {
+``` 
+function getDaysUntilChristmas (today) {
   let options = {day: 'numeric'};
   let xmas = new Date('2023-12-26');
 
